@@ -7,3 +7,6 @@
 	ng new my-app
 	cd my-app
 	ng serve --host 0.0.0.0 
+
+
+Modify file like .angular-cli.json then ng serve has to be restarted.
